@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="The home for all my shortcuts" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          With shortcuts like iCuts, your experience is bound to be better than ever!
         </p>
       </main>
 
